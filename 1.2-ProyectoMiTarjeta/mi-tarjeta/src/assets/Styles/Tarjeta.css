@@ -1,0 +1,12 @@
+.tarjeta-container {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 400px;
+    text-align: center;
+}
+
+.link-container a img {
+    width: 2rem;
+}
